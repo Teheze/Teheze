@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Szymon Leśniak 
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript basics
-- 📫 How to reach me szymon.les@onet.pl
+- 👋 Hi, I’m Szymon Leśniak
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 📫 How to reach me 
 
 <!---
 Teheze/Teheze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
